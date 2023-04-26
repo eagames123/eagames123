@@ -1,5 +1,21 @@
 # 💫 About Me:
-Erkan Salihoğlu<br>.Net Developer
+Erkan Salihoğlu<br>.Net Developer<br>Private Repos
+<br>
+UrlShortApp 
+<br>
+Mps2023 
+<br>
+MVCProje 
+<br>
+TamamlananProjelerAPI 
+<br>
+MpsCalendar 
+<br>
+PatentModuluDataUploadWithExcel 
+<br>
+DataUploadExcelFileDirectoryControl 
+<br>
+
 
 
 ## 🌐 Socials:
