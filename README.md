@@ -1,19 +1,19 @@
 # 💫 Hakkımda:
 <h1 align="center">Erkan Salihoğlu<br>.Net Developer</h1><h2 align="center">Private Repos</h2>
 <br>
-UrlShortApp 
+UrlShortApp => Rapid Api üzerinden Url Kısatma Api kullanılarak girilen urller kısaltılıp link oluşturulmaktadır. JsonIP aracılığı ile IP adresi alma işlemi yapılmaktadır http://urlkisaltshorturl.com/ 
 <br>
-Mps2023 
+Mps2023 => Marvel Pilates Studio Web Projesi. NTier Mimari ile oluşturulmuştur. .net7 ve EF kullanılmıştır. JsonIP aracılığı ile IP adresi alma işlemi yapılmaktadır. İletişim formu kayıt ve mail gönderme işlemleri bulunmaktadır. http://www.marvelpilatesstudio.com/ 
 <br>
-MVCProje 
+MVCProje => Mvc üzerine örnek bir proje
 <br>
-TamamlananProjelerAPI 
+TamamlananProjelerAPI => Rest API kullanılarak oluşturulan bir uygulama.
 <br>
-MpsCalendar 
+MpsCalendar => Fullcalendar kullanılarak oluşturulan bir web projesi.
 <br>
-PatentModuluDataUploadWithExcel 
+PatentModuluDataUploadWithExcel => Excel üzerinden iletilen dosyaların okunarak DB üzerinde ilgili tabloya kayıt işlemi yapılmaktadır.
 <br>
-DataUploadExcelFileDirectoryControl 
+DataUploadExcelFileDirectoryControl => Excel üzerinden iletilen dosyaların okunarak DB üzerinde ilgili tabloya kayıt işlemi yapılmaktadır.
 <br>
 
 
