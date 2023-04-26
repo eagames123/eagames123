@@ -1,5 +1,5 @@
 # 💫 Hakkımda:
-<h1 align="center">Erkan Salihoğlu<br>.Net Developer</h1><br><h2 align="center">Private Repos</h2>
+<h1 align="center">Erkan Salihoğlu<br>.Net Developer</h1><h2 align="center">Private Repos</h2>
 <br>
 UrlShortApp 
 <br>
