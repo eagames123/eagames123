@@ -1,5 +1,5 @@
 # 💫 About Me:
-Erkan Salihoğlu<br>.Net Developer<br>Private Repos
+<center>Erkan Salihoğlu<br>.Net Developer</center><br>Private Repos
 <br>
 UrlShortApp 
 <br>
