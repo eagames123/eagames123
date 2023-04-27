@@ -14,7 +14,16 @@ MpsCalendar => Fullcalendar kullanılarak oluşturulan bir web projesi.
 PatentModuluDataUploadWithExcel => Excel üzerinden iletilen dosyaların okunarak DB üzerinde ilgili tabloya kayıt işlemi yapılmaktadır.
 <br>
 DataUploadExcelFileDirectoryControl => Excel üzerinden iletilen dosyaların okunarak DB üzerinde ilgili tabloya kayıt işlemi yapılmaktadır.
-<br>
+
+ <h2 align="center">Katılımcı Repolar</h2>
+ CoreDemo => Örnek bir web proje çalışması .net core üzerine
+ <br>
+ HaberlerApiCalismasiOrnek1 => api.collectapi.com üzerinden API bağlantısı yapılarak oluşturulan bir web projesi. .net Core 7 üzerine yapılmıştır.
+ <br>
+ HangFire.WebISU => .net Core 7 üzerine yapılmıştır. HangFire aracılığı ile örnek olarak SendMail aracılığı ile mail gönderme ve Kuyruklama aracılığı ile Görsel üzerine Watermark ekleme işlemi denemeleri yapılmıştır.
+ <br>
+ MediaTRExample => CQRS üzerine örnek bir geliştirme projesi
+ <br>
 
 
 
